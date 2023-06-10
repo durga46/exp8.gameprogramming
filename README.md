@@ -7,7 +7,7 @@ To Create a landscape, add foliage, apply landscape material
 
 ## Procedure:
 
-1.	Create a landscape in the blueprint:
+### 1.	Create a landscape in the blueprint:
 
 
 •	Open the blueprint editor or 3D modeling software of your choice.
@@ -16,7 +16,7 @@ To Create a landscape, add foliage, apply landscape material
 
 •	Sculpt the terrain to create hills, valleys, and other desired features.
 
-2.	Add foliage:
+### 2.	Add foliage:
 
 
 •	Create an array or layer for the foliage.
@@ -26,7 +26,7 @@ To Create a landscape, add foliage, apply landscape material
 •	Scatter the foliage assets across the landscape, considering natural placement and variation.
 
 
-3.	Apply landscape material:
+### 3.	Apply landscape material:
 
 •	Create an array or layer blend for the landscape materials.
 
@@ -49,7 +49,7 @@ To Create a landscape, add foliage, apply landscape material
 •	Adjust the tiling, roughness, and other parameters as desired.
 
 
-4.	Add a 3D house model:
+### 4.	Add a 3D house model:
 
 •	Import or create a 3D model of a house.
 
@@ -58,7 +58,7 @@ To Create a landscape, add foliage, apply landscape material
 •	Adjust the position, rotation, and scale of the house model to fit the scene.
 
 
-5.	Add a bridge:
+### 5.	Add a bridge:
 
 •	Import or create a 3D model of a bridge.
 
@@ -68,7 +68,7 @@ To Create a landscape, add foliage, apply landscape material
 
 
 
-6.	Apply suitable materials:
+### 6.	Apply suitable materials:
 
 •	Select appropriate materials for the house and bridge models.
 
@@ -76,7 +76,7 @@ To Create a landscape, add foliage, apply landscape material
 
 
 
-7.	Fine-tune and iterate:
+### 7.	Fine-tune and iterate:
 
 •	Review the overall composition, materials, and placement.
 
